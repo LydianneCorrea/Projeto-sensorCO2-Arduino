@@ -1,2 +1,5 @@
-# Projeto-sensorCO2-Arduino
-Projeto criado na eletiva de Design Thinking - Seleção curso Softex introdução a Robótica;
+# Projeto | Sensor de Monoxido de Carbono | Arduino | Prototipo 3D.
+Projeto criado na eletiva de Design Thinking - Professor Emannuel Barreto;
+Sugestão do para horas complementares: Curso Introdução a Robótica, onde fui a unica da minha sala a passar na seleção da Softex-Recife/Pernambuco.
+Professor Orientador Robotica: 
+Pratica realizada no Tinkercad;
